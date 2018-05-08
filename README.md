@@ -1,4 +1,5 @@
 # Tissue-micro-array-processing
-A simple program to cut images out of the Tissue microarray (TMA).
+personal use, cut images out of the Tissue microarray (TMA).
 
+based on openCV
 Python 3.6.4
